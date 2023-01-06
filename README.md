@@ -13,3 +13,6 @@ Notes and resources for the Neural Network Language Generation course at IIIT Hy
             - The Task
             - The Process
             - Subtasks
+    * Lecture 2 (06 January, Friday)
+        - Bender+ 21
+        - Bender+ 20

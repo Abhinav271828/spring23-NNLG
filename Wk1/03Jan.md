@@ -1,5 +1,5 @@
 ---
-title: Neural Network Language Generation (CS7.501)
+title: Neural Network Language Generation (CL3.407)
 subtitle: |
           | Spring 2023, IIIT Hyderabad
           | 03 January, Tuesday (Lecture 1)
