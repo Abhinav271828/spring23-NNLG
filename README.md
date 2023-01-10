@@ -16,3 +16,6 @@ Notes and resources for the Neural Network Language Generation course at IIIT Hy
     * Lecture 2 (06 January, Friday)
         - Bender+ 21
         - Bender+ 20
+* Week 2
+    * Lecture 3 (10 January, Tuesday)
+        - How to Read a Paper
