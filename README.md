@@ -19,3 +19,8 @@ Notes and resources for the Neural Network Language Generation course at IIIT Hy
 * Week 2
     * Lecture 3 (10 January, Tuesday)
         - How to Read a Paper
+    * Lecture 4 (13 January, Friday)
+        - [missed]
+* Week 3
+    * Lecture 5 (17 January, Tuesday)
+        - 
